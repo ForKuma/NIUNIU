@@ -1,0 +1,5 @@
+{
+    "webApiUrl": "http://10.200.6.31:5100",
+    "gameVersion": "GAME_VERSION",
+    "SDKVersion": "SDK_VERSION"
+}
